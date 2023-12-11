@@ -1,0 +1,45 @@
+.navbar-brand:hover{
+        background-color:blue;
+    
+}
+
+.photo{
+    width: 500px;
+    height:500px;
+    margin: 160px;
+   
+    
+}
+
+
+
+
+
+.data:hover{
+    text-align: center;
+    color: blue;
+    padding-top: 60px;
+    background-color: azure;
+}
+
+
+
+.table{
+    margin-left: 60px;
+    padding-top: 60px;
+    font-size: 20px;
+}
+
+.log{
+    padding-top: 90px;
+}
+
+
+
+
+
+
+
+
+
+
