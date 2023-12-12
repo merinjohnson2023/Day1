@@ -6,12 +6,11 @@
 .photo{
     width: 500px;
     height:500px;
-    margin: 160px;
+    margin: 90px;
+   
    
     
 }
-
-
 
 
 
@@ -19,19 +18,32 @@
     text-align: center;
     color: blue;
     padding-top: 60px;
-    background-color: azure;
+    background-color: rgb(117, 175, 51);
 }
 
 
 
 .table{
+   
     margin-left: 60px;
     padding-top: 60px;
     font-size: 20px;
+    background-image: url("port.jpg");
+
 }
 
 .log{
     padding-top: 90px;
+}
+.contact{
+    text-decoration: underline;
+    text-overflow: clip;
+    font-size: 25px;
+}
+.cont{
+    margin: 0%;
+    padding-top: 50px;
+    
 }
 
 
