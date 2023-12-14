@@ -3,22 +3,40 @@
     
 }
 
-.photo{
-    width: 500px;
-    height:500px;
+.center{
+    width: 300px;
+    display: block;
+    height:300px;
     margin: 90px;
    
    
     
 }
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 160vh; /* This makes sure the container takes the full height of the viewport */
+}
 
+.container {
+    text-align: center;
+}
+
+img {
+    max-width: 30%;
+    height: auto;
+    display: block;
+    margin: 0 auto; /* This centers the image horizontally within the container */
+}
 
 
 .data:hover{
     text-align: center;
     color: blue;
     padding-top: 60px;
-    background-color: rgb(117, 175, 51);
 }
 
 
